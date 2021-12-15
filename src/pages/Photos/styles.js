@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Container = styled.div`
     background-color: #1F1F1D;
     display: flex;
-    height: 100vh;
+    height: 100%;
     width: 100%;
     .rec.rec-arrow{
         display: none;
