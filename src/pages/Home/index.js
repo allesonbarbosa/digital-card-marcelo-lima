@@ -49,13 +49,13 @@ function Home() {
                     </CardTelephone>
                     <p>Telefone (Tim)</p>
                     <CardInstagram>
-                        <a href="http://google.com.br">
+                        <a href="https://www.instagram.com/marcelolimajb.eletricista/?hl=pt-br">
                             <BsInstagram size="30px" className="logo-instagram"/>
                         </a>
                     </CardInstagram>
                     <p>Instagram</p>
                     <CardFacebook>
-                        <a href="http://google.com.br">
+                        <a href="https://www.facebook.com/marcelolima.santos.98">
                             <BsFacebook size="30px" className="logo-facebook"/>
                         </a>
                     </CardFacebook>
