@@ -12,7 +12,7 @@ export const Container = styled.div`
 export const ContainerCard = styled.div`
     margin: 20px auto;
     width:355px;
-    height: 700px;
+    height: 720px;
     border-radius: 14px;
     background-color: #FFCC00;
     display: flex;

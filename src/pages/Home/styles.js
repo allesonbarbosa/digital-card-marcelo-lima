@@ -10,7 +10,7 @@ export const Container = styled.div`
 export const ContainerPrincipal = styled.div`
     margin: 20px auto;
     width:355px;
-    height: 700px;
+    height: 720px;
     background: url(${Background});
     border-radius: 14px;
     box-shadow: 2px 2px #1F1F1D,
