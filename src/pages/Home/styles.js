@@ -10,7 +10,7 @@ export const Container = styled.div`
 export const ContainerPrincipal = styled.div`
     margin: 20px auto;
     width:355px;
-    height: 800px;
+    height: 700px;
     background: url(${Background});
     border-radius: 14px;
     box-shadow: 2px 2px #1F1F1D,
@@ -67,16 +67,6 @@ export const CardWhatsapp = styled.div`
     border-radius: 50%;
     background-image: linear-gradient(to top, #075E54 0%, #026B23 100%) ;
     .logo-whatsapp{
-        color: white;
-        margin: 5px;
-        }
-`
-export const CardTelephone = styled.div`
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    background-image: linear-gradient(to top, #0166E2 0%, #16A6FB  100%) ;
-    .logo-telephone{
         color: white;
         margin: 5px;
         }

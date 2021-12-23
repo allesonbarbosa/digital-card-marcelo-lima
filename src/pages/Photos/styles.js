@@ -30,16 +30,16 @@ export const ContainerCard = styled.div`
 `
 export const ContainerItens = styled.div`
     padding: 5px;
-    width: 500px;
-    height: 950px;
+    width: 345px;
+    height: auto;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+    padding: 130px 0;
 `
 export const ContainerImage = styled.div`
     width: 345px;
-    height: 900px;
+    height: auto;
     overflow: hidden;
     img{
         width: 100%;

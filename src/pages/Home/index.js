@@ -8,7 +8,6 @@ import { Container,
     ContainerSecondary,
     ContainerSocialNetwork,
     CardWhatsapp,
-    CardTelephone,
     CardInstagram,
     CardFacebook,
     CardEmail,
@@ -19,7 +18,7 @@ import { Container,
  } from './styles';
 
 import Avatar from '../../assets/foto_marcelo.jpg';
-import { BsWhatsapp, BsTelephoneFill, BsInstagram, BsFacebook} from 'react-icons/bs';
+import { BsWhatsapp, BsInstagram, BsFacebook} from 'react-icons/bs';
 import { HiOutlineMail } from 'react-icons/hi';
 import { IoIosFlash } from 'react-icons/io';
 
@@ -42,12 +41,6 @@ function Home() {
                         </a>
                     </CardWhatsapp>
                     <p>WhatsApp</p>
-                    <CardTelephone>
-                        <a href="tel:+5511981848161">
-                            <BsTelephoneFill size="30px" className="logo-telephone"/>
-                        </a>
-                    </CardTelephone>
-                    <p>Telefone (Tim)</p>
                     <CardInstagram>
                         <a href="https://www.instagram.com/marcelolimajb.eletricista/?hl=pt-br">
                             <BsInstagram size="30px" className="logo-instagram"/>

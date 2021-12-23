@@ -30,7 +30,7 @@ function Photos() {
                 <h1>Fotos</h1>
                     <Carousel itemsToShow={1} 
                     style={{width:'95%',
-                            height: '40%'}}>
+                            height: '100%'}}>
                         {photoJobs.map(photo => (
                             <ContainerImage>
                                 {photo.imagem}
